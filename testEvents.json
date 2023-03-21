@@ -1,0 +1,688 @@
+[
+  {
+    "time": "12.01.2023 16:04",
+    "utst_id": "BCS",
+    "title": "Bergen Carbon Solutions AS – Mandatory notification of trade by primary insider…",
+    "vedlegg": "",
+    "kategori": "MELDEPLIKTIG HANDEL FOR PRIMÆRINNSIDERE"
+  },
+  {
+    "time": "12.01.2023 15:56",
+    "utst_id": "ENDUR",
+    "title": "Endúr ASA: Notice of extraordinary general meeting…",
+    "vedlegg": "2",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 15:21",
+    "utst_id": "ENERG",
+    "title": "Energeia AS – End of stabilization period and partial exercise of greenshoe option (CORRECTION)…",
+    "vedlegg": "2",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 14:31",
+    "utst_id": "SBDIN",
+    "title": "Ny rente",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 14:23",
+    "utst_id": "TYSKO",
+    "title": "Ny rente",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 14:21",
+    "utst_id": "TYSKO",
+    "title": "Ny rente",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 14:14",
+    "utst_id": "BUIN",
+    "title": "Ny rente",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 14:14",
+    "utst_id": "AKAST",
+    "title": "Akastor ASA - Variable Pay Program",
+    "vedlegg": "3",
+    "kategori": "MELDEPLIKTIG HANDEL FOR PRIMÆRINNSIDERE"
+  },
+  {
+    "time": "12.01.2023 14:12",
+    "utst_id": "BRFI",
+    "title": "Ny rente",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 14:06",
+    "utst_id": "MELG",
+    "title": "Ny rente",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 14:05",
+    "utst_id": "ASKSB",
+    "title": "Ny rente",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:59",
+    "utst_id": "STAVKO",
+    "title": "Oslo Børs – Stavanger kommune - Mottatt søknad om notering av obligasjonslån…",
+    "vedlegg": "",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 13:59",
+    "utst_id": "STAVKO",
+    "title": "Oslo Børs –  Stravanger kommune – Received application for listing of bonds…",
+    "vedlegg": "",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 13:53",
+    "utst_id": "GEM",
+    "title": "Green Minerals AS: Distribution of shares by SeaBird Exploration Plc…",
+    "vedlegg": "1",
+    "kategori": "IKKE-INFORMASJONSPLIKTIGE PRESSEMELDINGER…"
+  },
+  {
+    "time": "12.01.2023 13:49",
+    "utst_id": "SBX",
+    "title": "Seabird Exploration Plc: Distribution of shares in Green Minerals AS…",
+    "vedlegg": "1",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 13:37",
+    "utst_id": "KLPKK",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:37",
+    "utst_id": "RNGK",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:37",
+    "utst_id": "LAKRB",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:37",
+    "utst_id": "AGFY",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:36",
+    "utst_id": "SVEG",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:36",
+    "utst_id": "SBANK",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:36",
+    "utst_id": "SBANK",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:36",
+    "utst_id": "OYKO",
+    "title": "Interest Adjustment",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:36",
+    "utst_id": "SBHEMN",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:36",
+    "utst_id": "OSPA",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:36",
+    "utst_id": "MORG",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:36",
+    "utst_id": "BEKO",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:36",
+    "utst_id": "BIEN",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:36",
+    "utst_id": "AEN",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:36",
+    "utst_id": "SSFBK",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:36",
+    "utst_id": "SPSK",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:36",
+    "utst_id": "SBSS",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:36",
+    "utst_id": "GRONG",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:36",
+    "utst_id": "AASB",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:36",
+    "utst_id": "BISG",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:35",
+    "utst_id": "SRBNK",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:35",
+    "utst_id": "MING",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:35",
+    "utst_id": "LISB",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:35",
+    "utst_id": "CRAYN",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:35",
+    "utst_id": "OSPA",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:35",
+    "utst_id": "HESB",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:35",
+    "utst_id": "SFSB",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:35",
+    "utst_id": "SFSB",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:35",
+    "utst_id": "GRONG",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:35",
+    "utst_id": "BRFI",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:35",
+    "utst_id": "SKUE",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:35",
+    "utst_id": "EIKA",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:35",
+    "utst_id": "BNB",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:35",
+    "utst_id": "EVINY",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:35",
+    "utst_id": "SADG",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:35",
+    "utst_id": "VVL",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:35",
+    "utst_id": "SBSS",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:35",
+    "utst_id": "SOON",
+    "title": "Rentefastsettelse",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 13:00",
+    "utst_id": "FERDE",
+    "title": "Ferde AS – New green bond issue",
+    "vedlegg": "",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 12:55",
+    "utst_id": "NPRO",
+    "title": "Financial calendar",
+    "vedlegg": "",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 12:55",
+    "utst_id": "NPRO",
+    "title": "Finansiell kalender",
+    "vedlegg": "",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 12:45",
+    "utst_id": "HMONY",
+    "title": "Betydelig kjøpsinteresse for Lokotechs Scrypt kretskort (Hashblades)…",
+    "vedlegg": "",
+    "kategori": "INNSIDEINFORMASJON"
+  },
+  {
+    "time": "12.01.2023 12:45",
+    "utst_id": "HMONY",
+    "title": "Significant purchase interest in Lokotech's Scrypt circuit boards (Hashblades)…",
+    "vedlegg": "",
+    "kategori": "INNSIDEINFORMASJON"
+  },
+  {
+    "time": "12.01.2023 12:37",
+    "utst_id": "AVINOR",
+    "title": "No clean bill of health for aviation in 2022",
+    "vedlegg": "",
+    "kategori": "IKKE-INFORMASJONSPLIKTIGE PRESSEMELDINGER…"
+  },
+  {
+    "time": "12.01.2023 12:37",
+    "utst_id": "AVINOR",
+    "title": "Luftfarten vart ikkje friskmeld i 2022",
+    "vedlegg": "",
+    "kategori": "IKKE-INFORMASJONSPLIKTIGE PRESSEMELDINGER…"
+  },
+  {
+    "time": "12.01.2023 12:36",
+    "utst_id": "DDB",
+    "title": "Rate Fixing NO0010826233 05-01-2023 - Amendment",
+    "vedlegg": "1",
+    "kategori": "RENTEREGULERING"
+  },
+  {
+    "time": "12.01.2023 12:00",
+    "utst_id": "NB",
+    "title": "Utvidelse av statskasseveksel NTB 03/2023…",
+    "vedlegg": "",
+    "kategori": "INNSIDEINFORMASJON"
+  },
+  {
+    "time": "12.01.2023 12:00",
+    "utst_id": "NB",
+    "title": "Reopening of Treasury bill NTB 03/2023",
+    "vedlegg": "",
+    "kategori": "INNSIDEINFORMASJON"
+  },
+  {
+    "time": "12.01.2023 11:21",
+    "utst_id": "GNP",
+    "title": "GNP Energy AS: Meldepliktig handel for primærinnsider…",
+    "vedlegg": "1",
+    "kategori": "MELDEPLIKTIG HANDEL FOR PRIMÆRINNSIDERE"
+  },
+  {
+    "time": "12.01.2023 11:15",
+    "utst_id": "TEL",
+    "title": "Dtac og True nærmer seg en sammenslåing av selskapene…",
+    "vedlegg": "",
+    "kategori": "IKKE-INFORMASJONSPLIKTIGE PRESSEMELDINGER…"
+  },
+  {
+    "time": "12.01.2023 11:15",
+    "utst_id": "TEL",
+    "title": "Dtac and True are moving into the final phase of the merger…",
+    "vedlegg": "",
+    "kategori": "IKKE-INFORMASJONSPLIKTIGE PRESSEMELDINGER…"
+  },
+  {
+    "time": "12.01.2023 11:08",
+    "utst_id": "LIME",
+    "title": "Lime Petroleum participates in North Sea exploration well…",
+    "vedlegg": "",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 11:02",
+    "utst_id": "OSLKO",
+    "title": "Oslo Børs –  Oslo kommune – Received application for listing of bonds…",
+    "vedlegg": "",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 11:02",
+    "utst_id": "OSLKO",
+    "title": "Oslo Børs – Oslo kommune - Mottatt søknad om notering av obligasjonslån…",
+    "vedlegg": "",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 10:51",
+    "utst_id": "EIKA",
+    "title": "Finansiell kalender",
+    "vedlegg": "",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 10:33",
+    "utst_id": "EIKA",
+    "title": "Eika Gruppen: Presentasjon av foreløpig regnskap for 2022…",
+    "vedlegg": "",
+    "kategori": "IKKE-INFORMASJONSPLIKTIGE PRESSEMELDINGER…"
+  },
+  {
+    "time": "12.01.2023 10:00",
+    "utst_id": "DFDS",
+    "title": "DECEMBER VOLUMES: STRONG FINISH TO 2022 FOR PASSENGERS…",
+    "vedlegg": "1",
+    "kategori": "IKKE-INFORMASJONSPLIKTIGE PRESSEMELDINGER…"
+  },
+  {
+    "time": "12.01.2023 10:00",
+    "utst_id": "AURG",
+    "title": "Aurskog Sparebank: Presentasjon av foreløpig regnskap for 2022…",
+    "vedlegg": "",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 10:00",
+    "utst_id": "SKUE",
+    "title": "Skue Sparebank - Presentasjon av foreløpig regnskap for 2022…",
+    "vedlegg": "",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 10:00",
+    "utst_id": "SADG",
+    "title": "Den Gule Banken, Sandnes Sparebank: Presentasjon av foreløpig regnskap for 2022…",
+    "vedlegg": "",
+    "kategori": "IKKE-INFORMASJONSPLIKTIGE PRESSEMELDINGER…"
+  },
+  {
+    "time": "12.01.2023 10:00",
+    "utst_id": "JAREN",
+    "title": "Jæren Sparebank – presentasjon av foreløpig regnskap for 2022…",
+    "vedlegg": "",
+    "kategori": "IKKE-INFORMASJONSPLIKTIGE PRESSEMELDINGER…"
+  },
+  {
+    "time": "12.01.2023 09:58",
+    "utst_id": "TOTG",
+    "title": "Presentasjon av foreløpig regnskap for 2022",
+    "vedlegg": "",
+    "kategori": "IKKE-INFORMASJONSPLIKTIGE PRESSEMELDINGER…"
+  },
+  {
+    "time": "12.01.2023 09:34",
+    "utst_id": "STORB",
+    "title": "Storebrand Bank ASA: Utøvelse ved innfrieslemulighet for fondsobligasjon STORB57…",
+    "vedlegg": "",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 09:34",
+    "utst_id": "STORB",
+    "title": "Storebrand Bank ASA: Exercise of call for Additional Tier 1 Bond STORB57…",
+    "vedlegg": "",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 09:27",
+    "utst_id": "STORK",
+    "title": "Storebrand Boligkreditt AS: Tilbakekjøp av obligasjoner",
+    "vedlegg": "",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 09:27",
+    "utst_id": "STORK",
+    "title": "Storebrand Boligkreditt AS: Buyback of bonds",
+    "vedlegg": "",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 09:00",
+    "utst_id": "OBFB",
+    "title": "OBOS Eiendom AS – Vellykket utstedelse av nytt obligasjonslån…",
+    "vedlegg": "",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 09:00",
+    "utst_id": "OBFB",
+    "title": "OBOS Eiendom AS – Successful new bond issue",
+    "vedlegg": "",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 08:48",
+    "utst_id": "SAGA",
+    "title": "Saga Pure: Espen Lundaas appointed interim-CEO",
+    "vedlegg": "1",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 08:36",
+    "utst_id": "TRSKO",
+    "title": "Oslo Børs – Tromsø kommune - Mottatt søknad om notering av obligasjonslån…",
+    "vedlegg": "",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 08:36",
+    "utst_id": "TRSKO",
+    "title": "Oslo Børs –  Tromsø kommune – Received application for listing of bonds…",
+    "vedlegg": "",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 08:30",
+    "utst_id": "DDRIL",
+    "title": "DDRIL - Presentation at Fearnley Securities - Offshore Drilling Seminar…",
+    "vedlegg": "1",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 07:56",
+    "utst_id": "SFLN",
+    "title": "SFL - Fixed Income Investor Meetings",
+    "vedlegg": "",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 07:22",
+    "utst_id": "BWLPG",
+    "title": "Repurchase of Own Shares",
+    "vedlegg": "1",
+    "kategori": "UTSTEDERS MELDEPLIKT VED HANDEL I EGNE AKSJER…"
+  },
+  {
+    "time": "12.01.2023 07:00",
+    "utst_id": "TIETO",
+    "title": "Tietoevry appoints Klaus Andersen as CEO of Tietoevry Banking effective 1 February 2023 - the business aims to become an independent listed company…",
+    "vedlegg": "1",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 07:00",
+    "utst_id": "NRC",
+    "title": "NRC Group ASA enters into agreement to sell its subsidiaries NRC Gravco and Septik Tank Co to Norva24…",
+    "vedlegg": "",
+    "kategori": "INNSIDEINFORMASJON"
+  },
+  {
+    "time": "12.01.2023 07:00",
+    "utst_id": "ODL",
+    "title": "ODL – Odfjell Drilling and Aker BP renew Semi Alliance for further 5 years…",
+    "vedlegg": "",
+    "kategori": "IKKE-INFORMASJONSPLIKTIGE PRESSEMELDINGER…"
+  },
+  {
+    "time": "12.01.2023 07:00",
+    "utst_id": "HAUTO",
+    "title": "Höegh Autoliners ASA (HAUTO) - December 2022 Trading Update…",
+    "vedlegg": "1",
+    "kategori": "IKKE-INFORMASJONSPLIKTIGE PRESSEMELDINGER…"
+  },
+  {
+    "time": "12.01.2023 06:58",
+    "utst_id": "AKRBP",
+    "title": "Five new years with drilling and wells rig alliances",
+    "vedlegg": "1",
+    "kategori": "IKKE-INFORMASJONSPLIKTIGE PRESSEMELDINGER…"
+  },
+  {
+    "time": "12.01.2023 06:58",
+    "utst_id": "AKRBP",
+    "title": "Fem nye år med riggallianser",
+    "vedlegg": "1",
+    "kategori": "IKKE-INFORMASJONSPLIKTIGE PRESSEMELDINGER…"
+  },
+  {
+    "time": "12.01.2023 06:34",
+    "utst_id": "ENDUR",
+    "title": "Endúr ASA – Mandatory notification of trade by close associates of primary insiders, disclosure of large shareholding and share lending…",
+    "vedlegg": "1",
+    "kategori": "MELDEPLIKTIG HANDEL FOR PRIMÆRINNSIDERE"
+  },
+  {
+    "time": "12.01.2023 00:43",
+    "utst_id": "ENDUR",
+    "title": "Endúr ASA – Key Information relating to potential repair offering…",
+    "vedlegg": "",
+    "kategori": "ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON…"
+  },
+  {
+    "time": "12.01.2023 00:26",
+    "utst_id": "ENDUR",
+    "title": "ENDÚR ASA: PRIVATE PLACEMENT SUCCESSFULLY PLACED…",
+    "vedlegg": "",
+    "kategori": "INNSIDEINFORMASJON"
+  }
+]
